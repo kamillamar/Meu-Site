@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Gestão de Pessoas - RH e ferramentas online">
+    <title>Gestão de Pessoas - RH | [Seu Nome]</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #2a2a2a;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            color: #d4af37; /* Dourado luxuoso */
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        section {
+            padding: 50px 20px;
+            text-align: center;
+        }
+        .about, .services, .shop {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h2 {
+            font-size: 2em;
+            color: #2a2a2a;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            color: #555;
+            line-height: 1.6;
+        }
+        .luxury-color {
+            color: #d4af37; /* Dourado para acentuar os elementos */
+        }
+        footer {
+            background-color: #2a2a2a;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .btn {
+            background-color: #d4af37;
+            color: #fff;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            margin-top: 20px;
+            display: inline-block;
+        }
+        .btn:hover {
+            background-color: #b08d34;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Gestão de Pessoas - RH</h1>
+    <nav>
+        <a href="#about">Sobre Mim</a>
+        <a href="#services">Serviços</a>
+        <a href="#shop">Ferramentas</a>
+        <a href="#contact">Contato</a>
+    </nav>
+</header>
+
+<section id="about" class="about">
+    <h2>Sobre Mim</h2>
+    <p>Sou [Seu Nome], especialista em Gestão de Pessoas com foco em soluções estratégicas para empresas. Com anos de experiência em Recursos Humanos, ajudo organizações a potencializar seus talentos e a criar uma cultura de sucesso. Meu trabalho envolve desde recrutamento, treinamento, até o desenvolvimento de políticas eficazes para retenção de talentos.</p>
+</section>
+
+<section id="services" class="services">
+    <h2>Serviços</h2>
+    <p class="luxury-color">Ofereço uma gama de serviços personalizados para atender às necessidades de sua empresa, incluindo:</p>
+    <ul>
+        <li>Consultoria em Gestão de Pessoas</li>
+        <li>Recrutamento e Seleção</li>
+        <li>Treinamento e Desenvolvimento</li>
+        <li>Planejamento Estratégico de RH</li>
+    </ul>
+    <a href="#contact" class="btn">Saiba Mais</a>
+</section>
+
+<section id="shop" class="shop">
+    <h2>Ferramentas Online</h2>
+    <p class="luxury-color">Explore nossas ferramentas digitais exclusivas para gestão de pessoas, disponíveis para compra diretamente no site:</p>
+    <ul>
+        <li>Ferramenta de Avaliação de Desempenho</li>
+        <li>Plataforma de Recrutamento Inteligente</li>
+        <li>Planilhas de Controle de Ponto</li>
+    </ul>
+    <a href="#shop" class="btn">Visite a Loja</a>
+</section>
+
+<section id="contact" class="contact">
+    <h2>Contato</h2>
+    <p>Entre em contato comigo para mais informações ou agende uma consultoria personalizada.</p>
+    <p>E-mail: <a href="mailto:seuemail@exemplo.com" class="luxury-color">seuemail@exemplo.com</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 [Seu Nome] - Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
